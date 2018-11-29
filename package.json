@@ -13,12 +13,16 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.4",
+    "passport": "^0.4.0",
     "passport-github": "^1.1.0",
     "path": "^0.12.7",
     "pg-promise": "^8.5.2",
+    "querystring": "^0.2.0",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react-dom": "^16.6.3",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
